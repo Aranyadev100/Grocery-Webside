@@ -1,16 +1,112 @@
-# React + Vite
+# 🛒 Grocery Webside
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive grocery e-commerce website built with **React, Vite, and Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 📌 About The Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Grocery Webside is a modern grocery shopping website designed to provide users with a simple and user-friendly online shopping experience.
 
-## React Compiler
+Users can browse grocery products, explore categories, search for products, view product details, manage wishlist items, and add products to their shopping cart.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- 🏠 Modern Home Page
+- 🛍️ Product Listing
+- 🔍 Product Search
+- 📂 Product Categories
+- 📄 Product Details
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 📱 Fully Responsive Design
+- 🎨 Modern UI with Tailwind CSS
+- ⚡ Fast development with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Technologies Used
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Tools
+
+- Vite
+- Git
+- GitHub
+- VS Code
+
+## 📂 Project Structure
+
+```text
+Grocery-Webside/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+You can clone the repository using the **Code → HTTPS** option from GitHub.
+
+### 2. Go to the Project Folder
+
+```bash
+cd Grocery-Webside
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Then open the local URL shown in the terminal.
+
+## 🔮 Future Improvements
+
+- 🔐 User Authentication
+- 💳 Online Payment Integration
+- 🔗 Backend API
+- 🗄️ MongoDB Database
+- 👨‍💼 Admin Dashboard
+- 📦 Order Management
+- 👤 User Profile
+- ⭐ Product Reviews
+
+## 👨‍💻 Author
+
+**Aranya Dev Karak**
+
+B.Tech Computer Science & Engineering Student
+
+### Connect With Me
+
+- GitHub
+- LinkedIn
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
